@@ -1,0 +1,35 @@
+_repo: Sex-and-Common-Sense_11965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Royden, A. Maude (Agnes Maude)
+    aliases:
+    - Royden, Agnes Maude
+    - Royden, Maude
+    birthdate: 1876
+    deathdate: 1956
+    gutenberg_agent_id: '4151'
+    url: http://www.gutenberg.org/2009/agents/4151
+description: 'Title; Contents; Sex and Common-Sense; Preface to American Edition The
+  Nobility of the Sex Problem; Preface to Third English Edition; Foreword; I The Old
+  Problem Intensified by the Disproportion of the Sexes; II A Solution of the Problem
+  of the Unmarried; III Consideration of Other Solutions of the Problem of the Disproportion
+  of the Sexes; IV The True Basis of Morality; V The Moral Standard of the Future:
+  What Should it Be?; VI A Plea for Light; VII Friendship; VIII Misunderstandings;
+  IX Further Misunderstandings: The Need for Sex Chivalry; X ""The Sin of the Bridegroom""'
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+- !lcsh 'Sexual ethics'
+- !lcsh 'Sex'
+- GITenberg
+title: Sex and Common-Sense
+url: http://www.gutenberg.org/ebooks/11965
