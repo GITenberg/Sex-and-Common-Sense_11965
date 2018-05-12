@@ -1,5 +1,8 @@
 _repo: Sex-and-Common-Sense_11965
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Royden, A. Maude (Agnes Maude)
@@ -17,6 +20,8 @@ description: 'Title; Contents; Sex and Common-Sense; Preface to American Edition
   of the Sexes; IV The True Basis of Morality; V The Moral Standard of the Future:
   What Should it Be?; VI A Plea for Light; VII Friendship; VIII Misunderstandings;
   IX Further Misunderstandings: The Need for Sex Chivalry; X ""The Sin of the Bridegroom""'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11965#Sex-and-Common-Sense
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
